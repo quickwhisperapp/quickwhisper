@@ -71,4 +71,4 @@ https://github.com/user-attachments/assets/c09dbfb3-73cf-4d1c-ac7f-cee9362b8d41
 
 ## Support
 
-- [support@quickwhisper.app](mailto:support@quickwhisper.app)
+- [Support](https://iwt-whisper.atlassian.net/servicedesk/customer/portals)
