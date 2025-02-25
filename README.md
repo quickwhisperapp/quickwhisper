@@ -25,6 +25,7 @@ https://github.com/user-attachments/assets/c09dbfb3-73cf-4d1c-ac7f-cee9362b8d41
 ## Installation
 
 - [AppStore](https://apps.apple.com/app/apple-store/id6479579136?pt=125225287&ct=github_qw_repo&mt=8)
+- [Gumroad](https://iwtcom.gumroad.com/l/quickwhisper)
 - [Github](https://github.com/quickwhisperapp/quickwhisper/releases)
 - [Homebrew](https://formulae.brew.sh/cask/quickwhisper) - ``brew install quickwhisper``
 
