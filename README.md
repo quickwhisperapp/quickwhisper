@@ -38,12 +38,17 @@ https://github.com/user-attachments/assets/c09dbfb3-73cf-4d1c-ac7f-cee9362b8d41
 
 ### Transcription
 - Lightning-fast processing: Get transcriptions in seconds
-- Support for virtually all media formats (`mp3`, `mp4`, `mov`, `ogg`, `m4a`, `m4v`, `wav`, `caf`, and more)
+- Support of major media formats (`mp3`, `mp4`, `mov`, `ogg`, `m4a`, `m4v`, `wav`, `caf`, and more)
+- Batch Transcribe: Transcribe multiple files in a cue. Useful if you want to create transcripts or subtitles to multiple files without transcribing them one by one.
+- Multitrack: Transcribe interviews and podcasts by merging individual speaker audio into combined recording.
 - Transcribe from a microphone.
-- Transcribe system audio. 
 - Record meetings in Zoom, Google Meet, Microsoft Teams, Webex, and others without bots joining your calls.
 - One-click transcription from popular websites: YouTube, Vimeo, Facebook, Instagram and others.
 - Support for 100+ languages with additional fine-tuned models
+
+Speaker Diarization
+- Fast speaker detection and labeling with local models 
+- Manually add speakers to your transcript when needed
 
 ### Privacy & Security
 - 100% local processing on your Mac
@@ -52,17 +57,16 @@ https://github.com/user-attachments/assets/c09dbfb3-73cf-4d1c-ac7f-cee9362b8d41
 
 ### Advanced Features
 - Advanced segment editing (edit, delete, trim, merge)
-- Automatic speaker diarization
 - Segment labeling
 - Full-text search and filtering
 - Adjustable timestamps for precision
 - Direct printing support
-- Model arguments for advanced users
+- Whisper settings for advanced users
 
 ### Export Options
 - Multiple export formats: `txt`, `pdf`, `html`, `md`, `csv`, `json`, `srt`, `sbv`, `vtt`
-- Segment length export settings
-- Native macOS sharing integration
+- Export recorded audio (individual channels and combined recording)
+- Advanced export settings
 
 ## Legal
 
