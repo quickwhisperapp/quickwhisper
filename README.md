@@ -20,7 +20,7 @@
   <a target="_blank" href="https://quickwhisper.featurebase.app/">💡 Feature Requests</a>
 </p>
 
-https://github.com/user-attachments/assets/c09dbfb3-73cf-4d1c-ac7f-cee9362b8d41
+https://github.com/user-attachments/assets/93d02d82-bbc1-44c9-b53d-242544a92fa7
 
 ## Installation
 
