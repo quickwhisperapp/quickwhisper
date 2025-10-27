@@ -46,6 +46,9 @@ https://github.com/user-attachments/assets/93d02d82-bbc1-44c9-b53d-242544a92fa7
 - One-click transcription from popular websites: YouTube, Vimeo, Facebook, Instagram and others.
 - Support for 100+ languages with additional fine-tuned models
 
+### AI Summaries
+- Transform hours of content and meeting recording into concise summaries with leading AI models (OpenAI, Anthropic, Google Gemini, OpenRouter).
+
 ### Speaker Diarization
 - Fast speaker detection and labeling with local models 
 - Manually add speakers to your transcript when needed
