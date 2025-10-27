@@ -31,7 +31,7 @@ https://github.com/user-attachments/assets/93d02d82-bbc1-44c9-b53d-242544a92fa7
 
 ## System Requirements
 
-- macOS 13.5+ (Ventura)
+- macOS 14.6+ (Sonoma)
 - Apple Silicon (M1/M2/M3)
 
 ## Key Features
